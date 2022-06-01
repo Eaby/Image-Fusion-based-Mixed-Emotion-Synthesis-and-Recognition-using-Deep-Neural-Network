@@ -1,0 +1,1 @@
+Place all the 42 image class folders from ‘ClassWiseOutput’ folder that is inside the downloaded dataset inside this folder ‘our_JAFFE_dataset’.
