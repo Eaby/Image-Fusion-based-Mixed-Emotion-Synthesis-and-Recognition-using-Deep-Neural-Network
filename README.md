@@ -1,7 +1,7 @@
 # Image-Fusion-based-Mixed-Emotion-Synthesis-and-Recognition-using-Deep-Neural-Network
 
-![pose to mesh](./asset/pose_mesh.png)
-![quality results](./asset/quality_result.png)
+![pose to mesh](./Recourses/SyntheticMixedEmotions.png)
+![quality results](./Recourses/RecognisedMixedEmotions.png)
 
 This is the official implementation code for Image Fusion based Mixed Emotion Synthesis and Recognition using Deep Neural Network. This algorithm uses a spatial domain approach, combining weighted average method and Principal Component Analysis. The output image created from this algorithm provides a new synthetic image which is a combination of 2 base facial expressions. The project also uses a CNN based Mixed emotion detection which is implemented using [[Tensorflow](https://pytorch.org/)](https://www.tensorflow.org/). 
 
