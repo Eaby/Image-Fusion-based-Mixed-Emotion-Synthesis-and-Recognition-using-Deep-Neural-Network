@@ -1,12 +1,12 @@
 # Image-Fusion-based-Mixed-Emotion-Synthesis-and-Recognition-using-Deep-Neural-Network
 ### Original Emotions
-![Original Emotions](./Recourses/OriginalBaseEmotions.png)
+![Original Emotions](./Recourses/OriginalBaseEmotions.PNG)
 
 ### Synthetic Mixed Emotions
-![Synthetic Mixed Emotions](./Recourses/SyntheticMixedEmotions.png)
+![Synthetic Mixed Emotions](./Recourses/SyntheticMixedEmotions.PNG)
 
 ### Recognised Mixed Emotions
-![Recognised Mixed Emotions](./Recourses/RecognisedMixedEmotions.png)
+![Recognised Mixed Emotions](./Recourses/RecognisedMixedEmotions.PNG)
 
 This is the official implementation code for Image Fusion based Mixed Emotion Synthesis and Recognition using Deep Neural Network. This algorithm uses a spatial domain approach, combining weighted average method and Principal Component Analysis. The output image created from this algorithm provides a new synthetic image which is a combination of 2 base facial expressions. The project also uses a CNN based Mixed emotion detection which is implemented using [[Tensorflow](https://pytorch.org/)](https://www.tensorflow.org/). 
 
@@ -36,7 +36,7 @@ The `${ROOT}` is described as below.
 ${ROOT} 
 |-- CODE_PartA *Folder contains other Main Mixed Emotion recognition algorithm code, other testing algorithms and Pre-processing and file handling codes.
 |-- Code_PartB *Folder contains FER2013 challenge task, optimize criteria, face detection and shape predictor data files.
-|-- Dataset    *Folder contains Our Algorithm Synthesised Images and Orginal JAFFE Dataset.
+|-- Dataset    *Folder contains Our Algorithm Synthesised Images and Orginal JAFFE Dataset.(Copy the zip file from the Google drive location provided by us. The link is placed inside the .txt file inside Dataset Folder.)
 |-- Recourses  * Recourses files. 
 |-- package_requirements.sh
 ```
