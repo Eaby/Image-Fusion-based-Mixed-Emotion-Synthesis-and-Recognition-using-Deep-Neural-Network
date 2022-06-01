@@ -1,4 +1,8 @@
 # Image-Fusion-based-Mixed-Emotion-Synthesis-and-Recognition-using-Deep-Neural-Network
+
+![pose to mesh](./asset/pose_mesh.png)
+![quality results](./asset/quality_result.png)
+
 This is the official implementation code for Image Fusion based Mixed Emotion Synthesis and Recognition using Deep Neural Network. This algorithm uses a spatial domain approach, combining weighted average method and Principal Component Analysis. The output image created from this algorithm provides a new synthetic image which is a combination of 2 base facial expressions. The project also uses a CNN based Mixed emotion detection which is implemented using [[Tensorflow](https://pytorch.org/)](https://www.tensorflow.org/). 
 
 ## Install guidelines
@@ -15,3 +19,20 @@ This is the official implementation code for Image Fusion based Mixed Emotion Sy
 
 ## Running the tests 
 You can test the accuracy of trained classifier using `modXtest.npy` and `modytest.npy` by running `mxfertest.py` file. This would give the accuracy of the recently trained classifier.
+
+
+## Directory
+
+### Root
+
+The `${ROOT}` is described as below.
+
+```
+${ROOT} 
+|-- CODE_PartA *Folder contains other Main Mixed Emotion recognition algorithm code, other testing algorithms and Pre-processing and file handling codes.
+|-- Code_PartB *Folder contains FER2013 challenge task, optimize criteria, face detection and shape predictor data files.
+|-- Dataset    *Folder contains Our Algorithm Synthesised Images and Orginal JAFFE Dataset.
+|-- Recourses  * Recourses files. 
+|-- package_requirements.sh
+```
+- `mxfer.h5` File contains pretrained weights from the proposed Algorithm.
