@@ -1,4 +1,4 @@
-# MEG(FE)ver.1: Mixed Emotion Synthetic Dataset Generation using ControlledImage Fusion Model and Detection using DNN
+# MEG(FE)ver_1: Mixed Emotion Synthetic Dataset Generation using ControlledImage Fusion Model and Detection using DNN
 ### Original Emotions
 ![Original Emotions](./Recourses/OriginalBaseEmotions.PNG)
 
