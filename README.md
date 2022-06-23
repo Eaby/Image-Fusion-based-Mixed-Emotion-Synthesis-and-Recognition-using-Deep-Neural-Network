@@ -1,4 +1,4 @@
-# Image-Fusion-based-Mixed-Emotion-Synthesis-and-Recognition-using-Deep-Neural-Network
+# MEG(FE)ver.1:A First Generation Mixed Emotion Synthetic Dataset Generation using ControlledImage Fusion Model and Detection using DNN
 ### Original Emotions
 ![Original Emotions](./Recourses/OriginalBaseEmotions.PNG)
 
